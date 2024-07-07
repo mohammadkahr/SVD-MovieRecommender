@@ -35,7 +35,7 @@ This project demonstrates the application of SVD in building a movie recommendat
 
 
 ## By:
-- Poria Talaei 
+- pouria Talaei 
 - Mohammadkazem Harandi
 
 ### Contact
