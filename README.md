@@ -1,9 +1,4 @@
-
 # Movie Recommendation System
-
-## By:
-- Poria Talaei
-- Mohammadkazem Harandi
 
 ## Overview
 
@@ -37,3 +32,11 @@ Here, we manually implement the SVD decomposition algorithm, providing insight i
 
 ### Conclusion
 This project demonstrates the application of SVD in building a movie recommendation system, providing three different implementation approaches to understand and explore various methods in matrix factorization.
+
+
+## By:
+- Poria Talaei 
+- Mohammadkazem Harandi
+
+### Contact
+For any questions or feedback, please reach out to harandi.mohamma@gmail.com or Talaei.pouria06@gmail.com.
